@@ -40,10 +40,10 @@ Hậu MVP có thể có:
 
 ### Class Diagram
 
-![Alt text](D:/Syltalky/img/classdiagram-1.png)
+![Alt text](img/classdiagram-1.png)
 
 ### Activity Diagram
 
-![Alt text](D:/Syltalky/img/activitydiagram-1.png)
+![Alt text](img/activitydiagram-1.png)
 
 ## Link Demo
